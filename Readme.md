@@ -9,3 +9,10 @@
    2. fix bad links for publisher using regex
       1. find '<a href="\?\?.*?>(.*?)</a>'
       2. replace '$1'
+
+gh-pages (/docs on main)
+├── index.html          → redirect or copy of current
+├── 10.0.0/
+├── 11.0.0/
+├── 12.0.0/
+
